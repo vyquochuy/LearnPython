@@ -1,2 +1,2 @@
 # LearnPython
-học Python từ con số 0
+đây là kho để lưu những project python khi tôi bắt đầu học
